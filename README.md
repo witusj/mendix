@@ -4,7 +4,7 @@
 
 Unknown Knowns vs Unknown Unknowns vs Known Knowns vs Known Unknowns
 
-| Tables        | Are           |
+
 | ------------- |:-------------:|
 | Unknown Knowns      | Unknown Unknowns |
 | Known Knowns      | Known Unknowns      |
