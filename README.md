@@ -10,4 +10,5 @@ Unknown Knowns vs Unknown Unknowns vs Known Knowns vs Known Unknowns
 | Known Knowns      | Known Unknowns      |
 
  Lots of Unknown Unknowns >> Agile
+ 
  Lots of Known Knowns >> Waterfall
